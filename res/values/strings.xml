@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">支付接口演示</string>
+    <string name="action_settings">设置</string>
+    <string name="main_title">支付接口演示主页</string>
+	<string name="goods1_label">商品一</string>
+	<string name="goods2_label">商品二</string>
+	<string name="about_label">软件介绍</string>
+	<string name="exit_label">退出登陆</string>
+	<string name="about_title">软件介绍</string>
+	<string name="about_text">\
+	    本软件是一具商品在线支付的软件，你可以在此页面上进行在线支付操作。</string>
+	<string name="goods1_title">商品一在线支付</string>
+	<string name="goods1_text">\
+	    你正在商城一购物!</string>
+	<string name="goods2_title">商品二在线支付</string>
+	<string name="goods2_text">\
+	    你正在商城二购物!</string>
+	<string name="exit_title">退出操作</string>
+	<string name="exit_text">\
+	   你正在进行退出!</string>
+	
+	<string name="buy_one_goods1_label">购买一件商品一</string>
+	<string name="buy_two_goods1_label">购买二件商品一</string>
+	<string name="ImageViewRold">ImageViewRold</string>
+	<string name="AlipayTitle">网上支付</string>
+	
+	<string name="confirm_install_hint">"安装提示"</string>	
+	<string name="confirm_install">"为保证您的交易安全，需要您安装支付宝安全支付服务，才能进行付款。\n\n点击确定，立即安装。"</string>
+	
+	<string name="remote_call_failed">Failure calling remote service</string>
+	
+	<string name="Ensure">"确定"</string>
+	<string name="Cancel">"取消"</string>
+	<string name="check_sign_failed">您的订单信息已被非法篡改。</string>
+</resources>
